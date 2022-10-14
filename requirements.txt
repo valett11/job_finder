@@ -1,1 +1,4 @@
 browser-cookie3>=0.16.2
+requests
+bs4
+HTMLParser
